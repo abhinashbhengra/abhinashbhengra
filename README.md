@@ -1,7 +1,7 @@
 ![logo](https://github.com/abhinashbhengra/abhinashbhengra/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Abhinash Bhengra</h1>
 <h3 align="center">I enjoy computer science and have a passion for full-stack web development and mobile development. I am really interested in learning about and experiment with new trends and technology.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" >
+<img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" >
 
 - 🌱 I’m currently learning **React, ReactNative**
 
